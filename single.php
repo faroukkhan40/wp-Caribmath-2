@@ -1,5 +1,6 @@
 <?php
 /**
+ * This is the theme I am working with from my Git Repo
  * The template for displaying all single posts
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
