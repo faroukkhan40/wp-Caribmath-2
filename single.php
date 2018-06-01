@@ -8,6 +8,9 @@
  */
 
 get_header();
+
+tessting testing testing 
+
 ?>
 
 	<div id="primary" class="content-area" style="width:75%; padding:15px;">
