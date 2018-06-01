@@ -10,7 +10,7 @@
 get_header();
 ?>
 
-	<div id="primary" class="content-area">
+	<div id="primary" class="content-area" style="width:100%; padding:15px;">
 		<main id="main" class="site-main">
 
 		<?php
