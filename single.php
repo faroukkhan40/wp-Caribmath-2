@@ -1,6 +1,6 @@
 <?php
 /**
- * This is the theme I am working with from my Git Repo
+ * This is the first theme I am working with from my Git Repo
  * The template for displaying all single posts
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
@@ -13,7 +13,7 @@ get_header();
 
 
 ?>
-       <><h1>tessting testing testing 
+       <h1>tessting testing testing  </h1>
 	<div id="primary" class="content-area" style="width:75%; padding:15px;">
 		<main id="main" class="site-main">
 
